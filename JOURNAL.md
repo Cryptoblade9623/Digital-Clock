@@ -38,6 +38,8 @@ Work session
 
 **1.17h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/302d9d18-9b1c-4dbe-9931-582b5076acff/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/949a353f-52f1-4ff0-8293-05d56b91e777/video.mp4)
