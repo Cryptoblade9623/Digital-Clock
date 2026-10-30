@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 10.36h | 6 |
+| Week 4 | Tier 1 | 10.86h | 6 |
 
 ## Contents
 
@@ -65,7 +65,7 @@ Just did some reading here mainly.
 
 ### 2026-10-30: I finished the code for the clock. This is added to the 1 and a half hours already logged in the "main" project in Hackatime because it wouldn't log that for some reason.
 
-**2h**
+**2.5h**
 
 I finished the code for the clock. This is added to the 1 and a half hours already logged in the "main" project in Hackatime because it wouldn't log that for some reason.
 This took way longer than expected it to as I already had some basic knowledge of python code.
