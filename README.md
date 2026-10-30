@@ -1,5 +1,6 @@
 # Digital-Clock
 This is a digital clock that reflects the actual time in real life without you having to set it again.
+It measures 30 x 85 x 85mm, so it is quite a compact device.
 It does this by using a DS3231 module backed up by a CR2032 coin battery.
 The time is displayed through a 7 segment 4 digit TM1637 module and a ring of WS2812B RGB lights that show the seconds.
 It is powered by a 2000Mah battery with a J5019 charging and boost module and can be turned on and off with a 3 pin rocker switch.
