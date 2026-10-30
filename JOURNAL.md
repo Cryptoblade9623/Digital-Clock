@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 11.86h | 6 |
+| Week 4 | Tier 1 | 10.36h | 6 |
 
 ## Contents
 
@@ -19,7 +19,7 @@
 3. [2026-10-29: Work session](#2026-10-29-work-session)
 4. [2026-10-29: Just did some reading here mainly.](#2026-10-29-just-did-some-reading-here-mainly)
 5. [2026-10-29: Work session](#2026-10-29-work-session)
-6. [2026-10-30: I finished the code for the clock.](#2026-10-30-i-finished-the-code-for-the-clock)
+6. [2026-10-30: I finished the code for the clock. This is added to the 1 and a half hours already logged in the "main" project in Hackatime because it wouldn't log that for some reason.](#2026-10-30-i-finished-the-code-for-the-clock-this-is-added-t)
 
 ## Design
 
@@ -63,15 +63,15 @@ Just did some reading here mainly.
 
 [Timelapse](https://lookout.hackclub.com/api/media/f85f2123-59e9-4e85-b045-34df88021b49/video.mp4)
 
-### 2026-10-30: I finished the code for the clock.
+### 2026-10-30: I finished the code for the clock. This is added to the 1 and a half hours already logged in the "main" project in Hackatime because it wouldn't log that for some reason.
 
-**3.5h**
+**2h**
 
-I finished the code for the clock.
-This took way longer than expected it to as i already had some basic knowledge of python code.
+I finished the code for the clock. This is added to the 1 and a half hours already logged in the "main" project in Hackatime because it wouldn't log that for some reason.
+This took way longer than expected it to as I already had some basic knowledge of python code.
 First I installed a bunch of different libraries into the micropico folder created by VS Code.
 ![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/85553376580fa59a538b301a018ecea208fa793332361d48e8b0499b4535c24b.png)
-I referred to lots of online resources like https://docs.micropython.org/en/latest/library/neopixel.html and https://learn.adafruit.com/adafruit-neopixel-uberguide but the second didn't have anything useful on the coding part. Imported some modules at the start the reflect the libraries I had installed.
+I referred to lots of online resources like Gemini,  https://docs.micropython.org/en/latest/library/neopixel.html and https://learn.adafruit.com/adafruit-neopixel-uberguide but the second didn't have anything useful on the coding part. Imported some modules at the start the reflect the libraries I had installed.
 ![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/52da10f8196a6a4300355324f98f1a902f617938c0475350e72bfe7c7126d14c.png)
 I then defined the pins.
 ![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/6ecd901cabb3b6d6021bb836180c164bd4e9bddfbe84e737532af1f6da118acc.png)
