@@ -6,6 +6,7 @@ The time is displayed through a 7 segment 4 digit TM1637 module and a ring of WS
 It is powered by a 2000Mah battery with a J5019 charging and boost module and can be turned on and off with a 3 pin rocker switch.
 It is a starter project from the [Half-Life YSWS](https://halflife.hackclub.com/dashboard).
 I have changed it up by making it a fusion of 2 projects, using a different MCU and battery powering it.
+The files include: 3D models of the case and PCB incase you want to make it yourself, PCB and schematics, BOM, firmware and gerber files.
 
 ## Pictures
 Below are screenshots of the PCB, schematics, PCB rendering and case in Fusion 360.
